@@ -1,0 +1,2 @@
+https://www.w3schools.com/python/python_ref_string.asp
+This document will be helpful for string manipulation.
